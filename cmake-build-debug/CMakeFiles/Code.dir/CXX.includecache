@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sirze/Área de Trabalho/Universidade/PROG/Projeto/Code/main.cpp
+iostream
+-
+chrono
+-
+thread
+-
+windows.h
+-
+wincon.h
+-
+

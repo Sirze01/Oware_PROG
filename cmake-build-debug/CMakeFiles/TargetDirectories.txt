@@ -1,0 +1,3 @@
+/home/sirze/Área de Trabalho/Universidade/PROG/Projeto/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sirze/Área de Trabalho/Universidade/PROG/Projeto/Code/cmake-build-debug/CMakeFiles/Code.dir
+/home/sirze/Área de Trabalho/Universidade/PROG/Projeto/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
