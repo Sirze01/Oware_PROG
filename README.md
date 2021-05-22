@@ -1,13 +1,14 @@
-######################################################################################################
+    ######################################################################################################
 
- ---------------------------------  OWARE - A count and capture game  -------------------------------
+     ---------------------------------  OWARE - A count and capture game  -------------------------------
  
-######################################################################################################
- Author: José Costa T1_201907216 <up201907216@fe.up.pt>
- Game Developed for the 1st year Programming Course of the Master in Informatics and Computing Engineering (EI0012) (April             2020) 
+    ######################################################################################################
+    Author: José Costa T1_201907216 <up201907216@fe.up.pt>
+    Game Developed for the 1st year Programming Course of the Master in Informatics and Computing Engineering (EI0012)
+    (April 2020) 
    
    
- ###Comentary
+ # Comentary
    
    This project was fun and a great way to get to know the basics and the in's and out's of the C++ programming language.
    In my particular case, I guess I could make an even better job if I learnt about structs and classes, as well as about
@@ -21,9 +22,9 @@
    
    
    
- ###Objectives
+ # Objectives
   
-  ##Basic version
+  ## Basic version
    The program must execute in console mode. You are free to choose the interface of the program. (Achieved) 
    
    The seeds in each hole can be indicated by numbers, instead of other symbols. (Achieved, using numbers) 
@@ -38,14 +39,14 @@
    
    After each move, detect if the game ended and announce the winner or declare a draw. (Achieved) 
    
-  ##Enhanced version
+  ## Enhanced version
    If you feel that the basic version is too easy, you can implement an enhanced version that allows a player to play
    against the computer. It is suggested that you start by implementing a "random player version" that simply looks at
    the available choices and picks one of them, randomly; (Achieved, by tricking the player 2 name - Bad implementation) 
    
    
    
- ### Development State
+ # Development State
    
    The game is playable, does sow and capture moves, declares the end of the game in win/draw situations, outputs error messages 
    and handles bad inputs.
@@ -62,22 +63,25 @@
    
    
 
- ###Screens
-######################################################################################################
-
- ---------------------------------  OWARE - A count and capture game  -------------------------------
+ # Screens
  
-######################################################################################################
-   Author: José Costa T1_201907216 <up201907216@fe.up.pt> 
-   Game Developed for the 1st year Programming Course of the Master in Informatics and Computing Engineering (EI0012) (April 2020) 
-
-
+     ######################################################################################################
+     
+      ---------------------------------  OWARE - A count and capture game  -------------------------------
+     
+     ######################################################################################################
+     
+     Author: José Costa T1_201907216 <up201907216@fe.up.pt> 
+     Game Developed for the 1st year Programming Course of the Master in Informatics and Computing Engineering (EI0012)
+     (April 2020) 
+     
      Press 'r' to see the rules of the game, 'g' to skip to the game (You can press 'e' to exit the game 
      at anytime): r
      
      
-   ##############################################################################################
-   ### GENERAL
+     ##############################################################################################
+   
+   ###  GENERAL
    
      The Oware game is an game from the Mancala family of board games with Ashanti origin in Ghana.
 
@@ -117,7 +121,7 @@
      seeds, and doesn't capture all of the opponent's seeds. In a turn you can capture seeds from more 
      than one house. The captured seeds are stored in the scoring houses.
 
-   ###################################################################################
+     ###################################################################################
   
 
      Press 'g' to start a game, press 'b' to go back: 
@@ -175,10 +179,12 @@
      Computer chose 2
      Press enter key to continue...
 
-  Author: José Costa T1_201907216 <up201907216@fe.up.pt>
-  Game Developed for the 1st year Programming Course of the Master in Informatics and Computing Engineering (EI0012) (April  2020) 
-######################################################################################################
+\
 
- ---------------------------------  OWARE - A count and capture game  -------------------------------
- 
-######################################################################################################  
+    Author: José Costa T1_201907216 <up201907216@fe.up.pt>
+    Game Developed for the 1st year Programming Course of the Master in Informatics and Computing Engineering (EI0012) (April 2020)    
+    ######################################################################################################
+    
+     ---------------------------------  OWARE - A count and capture game  -------------------------------
+    
+    ######################################################################################################  
